@@ -1,4 +1,4 @@
-runegg
+Run Egg
 ======
 
 More Pygame Experimenting
