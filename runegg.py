@@ -1,3 +1,3 @@
-#Showing Trish how braches work
+#Showing Trish how branches work
 
 pass
